@@ -11,7 +11,7 @@ $daily_limit_user = "90"; // set daily limit
 /* Example: 1=>array(1=>"DopeKid Server 1","123.456.789","DopeKid","5"), */
 
 $server_lists_array=array(
-			1=>array(1=>"South Africa","sa-vps.duckdns.org","dopekid17","5"),
+			1=>array(1=>"servername","serverip","serverpass","5"),
 	);			
 
 
