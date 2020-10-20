@@ -56,14 +56,9 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 - screenfetch
 
-
-### Script By:
-
-https://t.me/Joash_Singh
-
 ### Need Decrypted Script?
 Contact Me Facebook or Telegram 
 
-- Telegram: @Joash_Singh
+- Telegram: https://t.me/Joash_Singh
 
 - Facebook: Joash Singh
