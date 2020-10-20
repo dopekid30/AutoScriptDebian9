@@ -59,4 +59,10 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 ### Script By:
 
-https://www.facebook.com/joash.singh.90
+https://t.me/Joash_Singh
+
+### Need Open Source? Contact Me Facebook or Telegram 
+
+- Telegram: @Joash_Singh
+
+- Facebook: Joash Singh
