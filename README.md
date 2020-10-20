@@ -61,4 +61,4 @@ Contact Me Facebook or Telegram
 
 - Telegram: https://t.me/Joash_Singh
 
-- Facebook: https://fb.me/joash.singh.90
+- Facebook: Joash Singh
