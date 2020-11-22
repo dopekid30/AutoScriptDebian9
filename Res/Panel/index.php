@@ -2,7 +2,7 @@
 /* Site Data */
 $site_name        = "DK VPS";
 $site_description = "Premium VPN/SSH/SSL Accounts Fast And Reliable Servers";
-$site_template    = "lumen"; // (flatly, darkly, sketchy, lumen, materia)
+$site_template    = "flatly"; // (flatly, darkly, sketchy, lumen, materia)
 $site_ip_address = "serverip"; // set site ip
 $site_paypal = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5MSCPA9T748GL"; // set site paypal donate link
 $site_contact = "https://m.facebook.com/joash.singh.90"; // set site contact us link
