@@ -20,6 +20,8 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 - Webmin - http://VPSIP:10000/
 
+- V2ray Panel - http://VPSIP:65432/
+
 - Simple Panel - http://VPSIP:85/
 
 - Openvpn Monitor - http://VPSIP:89/
