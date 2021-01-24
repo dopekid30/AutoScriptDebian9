@@ -58,6 +58,10 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 - screenfetch
 
+
+### V2ray Panel INFO
+V2ray panel password and username: admin
+
 ### Need Decrypted Script?
 Contact Me Facebook or Telegram 
 
