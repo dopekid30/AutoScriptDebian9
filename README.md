@@ -40,7 +40,7 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 - Dropbear : 80, 109, 110 & 442
 
 - Squid Proxy : 3128, 8000, 8080 & 8888
-
+bdb
 - Badvpn : 7300
 
 - Nginx : 85
@@ -48,7 +48,7 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 ### Server Tools:
 
-- htop
+- htopsnennenen
 
 - iftop
 
@@ -56,7 +56,7 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 - nethogs
 
-- screenfetch
+- screenfetch n
 
 
 ### V2ray Panel INFO
