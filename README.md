@@ -60,7 +60,11 @@ apt-get -y install wget && wget https://raw.githubusercontent.com/dopekid30/Auto
 
 
 ### V2ray Panel INFO
-V2ray panel password and username: admin
+V2ray panel password and username
+
+-Username: admin
+
+-Password: admin
 
 ### Need Decrypted Script?
 Contact Me Facebook or Telegram 
